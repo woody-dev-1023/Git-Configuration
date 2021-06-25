@@ -10,3 +10,8 @@
 ![](https://img.shields.io/badge/DevTools-XCode-informational?style=flat&logo=Xcode&white=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DevTools-AndroidStudio-informational?style=flat&logo=AndroidStudio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DevTools-VisualStudio2019-informational?style=flat&logo=VisualStudio&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Platforms-Swift,Android-informational?style=flat&logo=Platform.sh&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Platforms-ReactNative-informational?style=flat&logo=Platform.sh&white=white&color=2bbc8a)
+![](https://img.shields.io/badge/Platforms-Flutter-informational?style=flat&logo=Platform.sh&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Platforms-Xamarin-informational?style=flat&logo=Platform.sh&logoColor=white&color=2bbc8a)
