@@ -5,3 +5,11 @@
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Dart-informational?style=flat&logo=Flutter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-GoLang-informational?style=flat&logo=Go&logoColor=white&color=2bbc8a)
+
+
+
+
+![](https://img.shields.io/badge/Language-Swift-informational?style=flat&logo=Swift&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-Dart-informational?style=flat&logo=Flutter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-GoLang-informational?style=flat&logo=Go&logoColor=white&color=2bbc8a)
