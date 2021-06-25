@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/Language-Dart-informational?style=flat&logo=Flutter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-GoLang-informational?style=flat&logo=Go&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Language-Swift-informational?style=flat&logo=Swift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=JavaScript&white=white&color=2bbc8a)
-![](https://img.shields.io/badge/Language-Dart-informational?style=flat&logo=Flutter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Language-GoLang-informational?style=flat&logo=Go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Dev Tools-VS Code-informational?style=flat&logo=Visual Studio Code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Dev Tools-XCode-informational?style=flat&logo=Xcode&white=white&color=2bbc8a)
+![](https://img.shields.io/badge/Dev Tools-Android Studio-informational?style=flat&logo=Android Studio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Dev Tools-Visual Studio-informational?style=flat&logo=Visual Studio&logoColor=white&color=2bbc8a)
